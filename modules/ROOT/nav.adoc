@@ -1,1 +1,1 @@
-* xref:about-cooking.adoc[About Cooking]
+* xref:index.adoc[About Cooking]
