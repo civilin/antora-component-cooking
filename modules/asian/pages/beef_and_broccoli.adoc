@@ -1,0 +1,46 @@
+= Beef and Broccoli
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+// Settings
+:idprefix:
+:idseparator: -
+
+image:beef-and-broccoli.jpg[]
+
+This recipe tastes like take-out, but the beef is deliciously tender from being pressure cooked instead of stir fried.
+
+Yield: 6 servings
+
+== Ingredients
+====
+1 1/2 lbs. boneless beef chuck roast, well trimmed and sliced into thin strips +
+Salt and pepper +
+2 teaspoons olive oil +
+1 medium onion, finely chopped +
+4 cloves garlic, minced +
+3/4 cup beef broth +
+1/2 cup soy sauce +
+1/3 cup brown sugar (try cutting down) +
+2 tablespoons sesame oil +
+1/4 teaspoon red pepper flakes (will be spicy!) +
+1 lb. broccoli florets +
+3 tablespoons water +
+3 tablespoons cornstarch +
+1 can water chestnuts (optional) +
+Toasted sesame seeds for garnish, optional
+====
+
+== Preparation
+
+.  Season beef with meat tenderizer (or salt) and pepper. Put olive oil in the cooking pot and select browning. When oil begins to sizzle, brown meat in batches until all meat is browned - do not crowd. Transfer meat to a plate when browned.
+.  When all meat is browned select Saute and add chopped onion to the pot. Saute for 1 to 2 minutes until onion starts to soften. Add garlic and saute for 1 minute more.
+.  Add beef broth, soy sauce, brown sugar, sesame oil, and red pepper flakes to the pot. Stir until sugar is dissolved.
+.  Add browned beef and any accumulated juices. Select High Pressure. Set timer for 12 minutes. (About 5 minutes to reach pressure.)
+.  Place broccoli in microwave-safe bowl with 1/4 cup water. Microwave 3 – 4 minutes until broccoli is tender.
+.  When beep sounds turn pressure cooker off and use  quick pressure release. When valve drops carefully remove the lid.
+.  In a cup combine cornstarch and water; stir until smooth. Add to pressure cooker pot. Stir well to combine. Select browning and stir until sauce comes to a boil and thickens. Add steam broccoli.
+.  Serve over hot, cooked rice and garnish with sesame seeds.
+
+// .Source
+// http://www.pressurecookingtoday.com/pressure-cooker-beef-and-broccoli/

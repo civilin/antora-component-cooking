@@ -1,0 +1,3 @@
+= Antora Component: Cooking
+
+This Antora component contains recipes, mostly for Instant Pot pressure cookers.

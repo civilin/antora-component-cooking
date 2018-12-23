@@ -1,0 +1,2 @@
+* Mediterranean
+** xref:debbi_quinoa_salad.adoc[Debbi's Mediterranean Quinoa Salad]

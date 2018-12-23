@@ -1,0 +1,66 @@
+= Mexican Lasagna
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+This isn't lasagna, since it contains no pasta. But it's spicy, filling enough to be a meal, and more substantial then nachos and cheese. Yellow Mexican rice would be excellent with this recipe.
+
+== Ingredients
+
+====
+1/2 pound Ground beef +
+1/2 pound Sweet Italian sausage (ground like hamburger) +
+1/4 cup Chopped red onion +
+1 tsp. Cumin +
+3/4 tsp. Salt +
+1/2 tsp. Pepper +
+1 can Rotel diced tomatoes, drained +
+4 oz. can Green chile peppers, rinsed and drained +
+1 cup Salza (as hot or mild as you like) +
+12 Corn tortillas 6 in. diameter +
+15 oz. can Black beans, rinsed and drained +
+1 cup Frozen corn kernels +
+2 cups Cheddar cheese, shredded +
+1 cup Monterey Jack cheese, shredded +
+====
+
+.Sprinkle over each serving:
+Prepare these toppings while the main dish is cooking.
+[width="85%"]
+[cols="20,80"]
+
+|====================
+| 2 1/4 oz. | Back olives, sliced and drained
+| 1 | Tomato, chopped
+| 1 | Avocado, coarsely chopped
+| 1/4 cup |  Cilantro, discard stems then chop
+| 1/4 cup | Sour Cream
+|====================
+
+== Preparation
+. Brown beef and sausage in a large skillet, breaking up clumps. Drain off any drippings.
+
+. Stir in chopped red onion, garlic powder, cumin, salt, pepper, Rotel tomatoes, green chile peppers and salsa.
+
+. Shred and Mix cheeses together in a bowl.
+
+. Spray non-stick oil in pressure cooker, or grease the interior.
+
+. Place 1/4 of the meat-vegetable mixture in the pressure cooker.
+
+. Top the layer with corn tortillas. Or, try making a stack of smaller layers. The corn tortillas really taste good in this recipe.
+
+. Top with 1/3 of the drained black beans.
+
+. Top with 1/3 of the corn kernels (leave out for Linda), who thinks this makes recipe too sweet.
+
+. Top layer of corn with 1.3 sprinkled cheese
+
+. Repeat to add 2 more layers, ending with cheese.
+
+. In crockpot cook on low 3-4 hours, until heated thorough and cheese has melted. In pressue cooker, cook on high pressure for 10-15 minutes.
+
+.To serve:
+Sprinkle atop each serving a scattering of black olive slices, chopped tomato, chopped avacado, and chopped cilantro.
+
+//.Origin:
+//_Fix-It and Forget-It(R) New Cookbook_ by Phyllis Good

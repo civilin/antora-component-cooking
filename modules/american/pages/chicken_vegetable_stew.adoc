@@ -1,0 +1,58 @@
+= Chicken and Vegetable Stew
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+// Settings
+:idprefix:
+:idseparator: -
+
+A comforting winter stew recipe improved with the flavor of thyme.
+
+image:chicken-and-vegetable-stew.jpg[]
+
+Keep your tummies warm and full during the coming cold months with this chicken and vegetable stew recipe. Cooked with ingredients you already have in the cupboard and done in under an hour, this dish is the easiest comfort food you'll ever have! Try this dish that's perfect for the entire family!
+
+Prep Time: 20 minutes +
+Cook time: 20 minutes +
+Serves: 2-4
+
+== Ingredients
+====
+1 double chicken breast +
+4 carrots +
+4 potatoes +
+2 celery sticks +
+1 onion +
+2 garlic cloves +
+500 ml chicken stock +
+125 g flour +
+3 tbsp olive oil +
+5 g chopped parsley +
+1 tbsp dried thyme +
+salt and pepper +
+3/4 tsp red pepper flakes if you like it hot!
+====
+
+== Preparation
+
+. Season the flour with salt and pepper, to taste. Chop the chicken breast into large cuts and coat with flour.
+. Cook oil in the pressure cooker base.
+. Add a few pieces of chicken at a time and cook until golden brown.
+. Once cooked, add in all of the chicken back and cook for 3 more minutes with the sliced onion and crushed garlic.
+. Add carrots, potatoes, celery, and thyme to the pressure cooker. Cook for another 3 minutes.
+. Pour in stock and let it boil. Regularly stir to scrape off any brown bits at the base of the pan.
+. Cover the pressure cooker and bring to pressure. Then, reduce heat to maintain pressure. Cook for another 20 minutes.
+. Once done, stir in and top with chopped parsley.
+. Serve!
+
+== Notes
+
+The recipe is also great for chicken thighs, especially if you prefer to have more flavour
+Other vegetables can be used, too: zucchini, sweet potato, or pumpkin, among many others.
+
+Use fresh thyme if you want; this can also add more flavour.
+
+If you prefer a thicker soup consistency, add 2 tsps of cornflour mixed in a glass of cold water to the stew; let it boil and simmer for 3 minutes.
+
+== Source
+http://www.pressurecooker.com.au/chicken-and-vegetable-stew

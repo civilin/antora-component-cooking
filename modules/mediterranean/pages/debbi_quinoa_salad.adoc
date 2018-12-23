@@ -1,0 +1,39 @@
+= Debbi's Mediterranean Quinoa Salad
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+// Settings
+:sectanchors:
+:idprefix:
+:idseparator: -
+:toc: left
+Try this tasty quinoa salad recipe shared by fellow writer Debbi Hodde.
+
+This was the first Mediterranean recipe I made. It's now a #family favorite#.
+--
+Prep Time: 5 minutes +
+Cook time: 20 minutes +
+Serves: 6
+--
+
+== Ingredients
+====
+1 cup quinoa (red and white), rinsed  +
+1 1/2 cups water +
+1 cup tomato, sliced +
+1 cup cucumber, sliced +
+1/4 cup kalamata olives  +
+1/4 cup feta, crumbled +
+1 (15 ounce) can chickpeas, drained and rinsed  +
+3 tablespoons red wine vinegar  +
+3 tablespoons extra virgin olive oil  +
+1/2 teaspoon oregano +
+1 clove garlic, grated - salt and pepper to taste +
+====
+
+== Preparation
+
+. Bring the quinoa and water to a boil, reduce the temperature to medium-low and simmer, covered, until the liquid has been absorbed, about 15 minutes, and let sit covered for 5 minutes before letting it cool.
+. Meanwhile, prepare the remaining ingredients.
+. Mix the quinoa, tomatoes, cucumber, olives, feta, and chickpeas and toss in the mixture of the lemon juice, oil, oregano, garlic, salt and pepper.
+. Optionally add other Mediterranean-inspired ingredients such as red onion, roasted red peppers, sun dried tomatoes, artichoke hearts or  avocados.

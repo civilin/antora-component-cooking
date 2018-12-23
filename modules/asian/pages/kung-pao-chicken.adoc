@@ -1,0 +1,68 @@
+= Kung Pao Chicken
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+
+Kung Pao chicken is a spicy Chinese classic, made from chicken, peanuts, vegetables, and chili peppers.
+
+
+== Ingredients
+
+[width="75%", cols="10,15,75"]
+|===
+|Qty |Measure |Ingredient
+|2|cups|diced chicken
+|1/2||red onion
+|1/2|cup|diced zucchini
+|1/2|cup|diced sweet red and yellow chilli peppers
+|1/3|cup|sliced green onions
+|1|tsp|sesame seeds
+|2|cups|pre-cooked brown rice
+|1/2|cup|low sodium soy sauce
+|1|tbs|honey
+|1|can|water chestnuts, drained
+|2|cups|broccoli (optional)
+|1|tsp|hot chilli paste
+|2|tsp|brown sugar (can use less)
+|1|tsp|garlic
+|1/4|cup|unsalted peanuts
+|2|tbsp|corn starch
+|===
+
+////
+2 cups diced chicken +
+1/2 red onion +
+1/2 cup diced zucchini +
+1/2 cup diced sweet red and yellow chilli peppers +
+1/3 cup sliced green onions +
+1 tsp sesame seeds +
+2 cups pre-cooked brown rice +
+1/2 cup low sodium soy sauce +
+1 tbs honey +
+1 can water chestnuts, drained +
+2 cups broccoli (optional) +
+1 tsp hot chilli paste +
+2 tsp brown sugar (can use less) +
+1 tsp minced garlic +
+2 tbsp corn starch +
+////
+
+== Preparation
+
+. Cook 2 cups of rice. Set aside. See xref:brown_rice.adoc[brown rice recipe].
+. Steam 2 cups broccoli. Set aside.
+. Dice 1/2 red onion. Set aside.
+. Cut up zucchini, onion, green onions and peppers. Set aside.
+. Dice 2 cups of chicken. Saute chicken in pressure cooker with a small amount of oil.
+. Mix soy sauce, honey, chilli paste, brown sugar, garlic, and cornstarch in a small bowl.
+. Add bowl of seasonings to the pressure cooker.
+. Add 1 cup water.
+. Add water chestnuts.
+. Pressure cook on manual for 5 minutes.
+. Vent the pressure cooker. Stir in the vegetables (zucchini, onion, green onions, and peppers).
+. Add the sesame seeds.
+. Add the peanuts.
+. Pressure cook 4 additional minutes, on the high setting.
+. Stir in broccoli.
+. Sprinkle on more sesame seeds.
+. Serve over rice.

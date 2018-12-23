@@ -1,0 +1,29 @@
+= Chicken Fried Rice
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+Easy recipe for making tasty chicken fried rice in your pressure cooker.
+
+== Ingredients
+
+====
+1-2 cups strips of pre-cooked grilled chicken into bite-sized pieces. +
+8 oz can water chestnuts, rinsed and drained +
+1 tbsp butter (or oil) +
+1 medium onion, diced +
+2 cloves garlic, minced +
+1 egg +
+1 cup basmati rice (uncooked) +
+ 1/4 cup soy sauce +
+1 1/2 cup chicken stock +
+1/2 cup frozen peas or other preferred vegetable +
+====
+
+== Instructions
+
+. Heat the pressure cooker on sauté setting.
+. Place the oil in the pot. Add the onion and garlic. Sauté 1 minute.
+. Add the egg and scramble it with the rest of the ingredients for 1-2 minutes.
+. Add the rice, soy sauce and chicken stock and stir well.
+. Pressure cook for 12 minutes.
+. Remove the lid and stir in frozen peas or veggies.

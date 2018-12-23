@@ -1,0 +1,13 @@
+= Brown Rice
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+// Settings
+:idprefix:
+:idseparator: -
+
+Brown rice is a set-it-and-forget-it item. Cook this first while you are preparing another dish.
+
+. Put 2 cups brown rice in pressure cooker.
+. Add 2 1/2 to 3 cups water (or broth).
+. Pressure cook on High Pressure for 22 minutes.

@@ -1,0 +1,2 @@
+.Module 1
+* xref:about-module2.adoc[About Module 2]
