@@ -1,2 +1,2 @@
-.Module 1
+.Module 2
 * xref:about-module2.adoc[About Module 2]
