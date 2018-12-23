@@ -1,7 +1,7 @@
 name: cooking
 title: Cooking
 version: 'latest'
-start_page: ROOT:about-cooking.adoc
+start_page: ROOT:index.adoc
 nav:
 - modules/ROOT/nav.adoc
 - modules/american/nav.adoc
