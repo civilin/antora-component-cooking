@@ -8,15 +8,15 @@ endif::[]
 
 image::cooking1.png[]
 
+== Dude! You need a Pressure Cooker
+
 Most of my recipes can be prepared in an Instant Pot pressure cooker. If you don't have one, I highly recommend it.
 
-////
-TIP: This content was generated from a module named `{page-module}`, in a component titled `{page-component-title}`, in a component whose internal name is `{page-component-name}`. See link:https://docs.antora.org/antora/1.1/page/page-and-site-attributes/[Page and site attributes^] for details.
-////
-
 image::pressure-cooker.png[Instant Pot,200,200,float="right",align="left"]
-Maecenas sed diam eget risus varius blandit sit amet non magna. Donec id elit non mi porta gravida at eget metus. Donec ullamcorper nulla non metus auctor fringilla. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Etiam porta sem malesuada magna mollis euismod.
+.Instant Pot IP-DUO60 7-in-1 Programmable Pressure Cooker
+image:pressure-cooker.png[role="left"] I recently purchased this Instant Pot pressure cooker. When it arrived, I set about cooking things I had never attempted before. I cooked Mexican Lasagna, Beef Burgandy, Chicken Stew, Beef and Broccoli over brown rice, and Chicken Piccata.  All of these recipes are easy to prepare with the cooker. Meat always comes out tender. The process locks in flavors. Pressure cooking saves time. I heartily recommend http://www.amazon.com/Instant-Pot-IP-DUO60-Programmable-Stainless/dp/B00FLYWNYQ[this gadget^]!
 
-Cras mattis consectetur purus sit amet fermentum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Donec id elit non mi porta gravida at eget metus. Nullam quis risus eget urna mollis ornare vel eu leo. Sed posuere consectetur est at lobortis. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nulla vitae elit libero, a pharetra augue.
+It handles multiple tasks well. In addition to pressure cooking, I used it to brown meat, to make brown rice, to steam broccoli and took keep meals warm until we were ready to eat them. You can prepare "slow cooker" recipes in minutes rather than hours. But you can slow cook if you want to. The Chinese food tasted as good as take out. The meat was more tender, having been pressure-cooked instead of stir-fried.
+
+Electric pressure cookers bear no resemblance to the dangerous hissing tank grandma had in her kitchen. You literally select a preset and forget it. Except of course that you're hungry and it cooks meals fast.
