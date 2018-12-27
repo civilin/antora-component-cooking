@@ -1,7 +1,7 @@
 = Best Ever Instant Pot Roast
 
 Source URL:{nbsp}https://pressureluckcooking.com/recipe/instant-pot-roast/ +
-Printable:{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}xref:printable-best-ever-instant-pot-roast.adoc[Click here for printable version]
+Printable:{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}xref:printable-best-ever-instant-pot-roast.adoc[Click here for printable version]
 ++++
 <!-- HTML to embed an iframe -->
 <hr>
