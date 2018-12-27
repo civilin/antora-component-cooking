@@ -2,3 +2,4 @@
 ** xref:braised_brisket.adoc[Braised Brisket]
 ** xref:chicken_noodle_soup.adoc[Chicken Noodle Soup]
 ** xref:chicken_vegetable_stew.adoc[Chicken and Vegetable Stew]
+** xref:best-ever-instant-pot-roast.adoc[Best Ever Instant Pot Roast]
