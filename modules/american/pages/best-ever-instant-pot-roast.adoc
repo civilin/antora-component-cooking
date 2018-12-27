@@ -6,7 +6,6 @@ Source URL: https://pressureluckcooking.com/recipe/instant-pot-roast/
 
 ++++
 <!-- HTML to embed an iframe -->
-<br>
 <hr>
 <div class="iframe-container">
   <iframe src="https://pressureluckcooking.com/recipe/instant-pot-roast/" frameborder="0"></iframe>
