@@ -1,7 +1,7 @@
 = Instant Pot Chicken Piccata
 
 [horizontal]
-Source:: https://pressureluckcooking.com/recipe/instant-pot-chicken-picatta/
+Source:: https://pressureluckcooking.com/recipe/instant-pot-chicken-picatta/[https://pressureluckcooking.com/recipe/instant-pot-chicken-picatta/^]
 Printable:: xref:printable-instant-pot-chicken-piccata.adoc[Click here for printable version]
 
 ++++
