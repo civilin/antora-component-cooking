@@ -15,11 +15,10 @@ This is a family favorite. It's quick and easy to prepare too.
 |Qty |Measure |Ingredient
 |1|tbs|extra virgin olive oil
 |1|lb.|ground beef
-|1||medium red onion
+|1|medium|red onion
 |1|tsp|chilli powder
 |1/2|tsp|cumin
 |1/2|tsp|salt
-|2|cups|pre-cooked brown rice
 |1|cup|long grain white rice
 |2|cups|water
 |2|cups|salsa (or 16 oz jar)
