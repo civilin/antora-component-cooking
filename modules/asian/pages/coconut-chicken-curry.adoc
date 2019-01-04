@@ -6,7 +6,7 @@ Preparation time: 22 minutes
 
 == Ingredients
 
-[width="75%", cols="10,15,75"]
+[width="100%", cols="10,15,75"]
 |===
 |Qty |Measure |Ingredient
 |2|pounds|boneless, skinless chicken breasts or thighs (about 4 breasts or 7 thighs), cut into 1" cubes
