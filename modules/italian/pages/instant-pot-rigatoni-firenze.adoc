@@ -1,4 +1,10 @@
 = Instant Pot Rigatoni Firenze
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+// Settings
+:idprefix:
+:idseparator: -
 
 [horizontal]
 Source:: https://pressureluckcooking.com/recipe/instant-pot-rigatoni-firenze/[https://pressureluckcooking.com/recipe/instant-pot-rigatoni-firenze/^]
