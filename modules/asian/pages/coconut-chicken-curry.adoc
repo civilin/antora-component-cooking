@@ -1,5 +1,5 @@
 = Coconut Chicken Curry
-// adapted from: https://www.epicurious.com/recipes/food/views/chicken-coconut-curry-in-a-hurry
+// Devon adapted this recipe from: https://www.epicurious.com/recipes/food/views/chicken-coconut-curry-in-a-hurry
 
 Serves: 4
 
