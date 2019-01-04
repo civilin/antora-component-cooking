@@ -3,3 +3,4 @@
 ** xref:brown_rice.adoc[Brown Rice]
 ** xref:chicken_fried_rice.adoc[Chicken Fried Rice]
 ** xref:kung-pao-chicken.adoc[Kung Pao Chicken]
+** xref:coconut-chicken-curry.adoc[Coconut Chicken Curry]
