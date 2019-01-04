@@ -1,7 +1,8 @@
 = Coconut Chicken Curry
 // adapted from: https://www.epicurious.com/recipes/food/views/chicken-coconut-curry-in-a-hurry
 
-Serves 4.
+Serves: 4
+
 Preparation time: 22 minutes
 
 == Ingredients
