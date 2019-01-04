@@ -1,6 +1,6 @@
 = Mexican Beans and Rice
 
-This is a family favorite. It's quick and easy to prepare too. 
+This is a family favorite. It's quick and easy to prepare too.
 
 |===
 |Servings|6
@@ -30,7 +30,7 @@ This is a family favorite. It's quick and easy to prepare too.
 |1 1/2|cup|shredded Mexican cheese
 |===
 
-= Preparation
+== Preparation
 
 . With your Instant Pot, click the saute function (or browning if on another brand). Allow the pot to come to temperature. When the screen reads `HOT` add in the olive oil, ground beef, onion, chilli powder, cumin, and salt.
 . Saute for 3-5 minutes until the beef has become crumbled and brown.
