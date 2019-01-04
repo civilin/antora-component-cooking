@@ -2,7 +2,7 @@
 
 [horizontal]
 Source:: https://pressureluckcooking.com/recipe/instant-pot-chicken-picatta/
-Printable:: xref:printable-best-ever-instant-pot-roast.adoc[Click here for printable version]
+Printable:: xref:printable-instant-pot-chicken-piccata.adoc[Click here for printable version]
 
 ++++
 <!-- HTML to embed an iframe -->
