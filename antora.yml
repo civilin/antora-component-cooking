@@ -8,7 +8,7 @@ nav:
 - modules/asian/nav.adoc
 - modules/mediterranean/nav.adoc
 - modules/mexican/nav.adoc
-#- modules/module1/nav.adoc
+- modules/italian/nav.adoc
 #- modules/module2/nav.adoc
 #- modules/module3/nav.adoc
 #- modules/module4/nav.adoc
