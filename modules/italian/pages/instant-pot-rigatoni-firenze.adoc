@@ -1,0 +1,30 @@
+= Instant Pot Rigatoni Firenze
+
+[horizontal]
+Source:: https://pressureluckcooking.com/recipe/instant-pot-rigatoni-firenze/[https://pressureluckcooking.com/recipe/instant-pot-rigatoni-firenze/^]
+Printable:: xref:printable-instant-pot-rigatoni-firenze.adoc[Click here for printable version]
+
+++++
+<!-- HTML to embed an iframe -->
+<hr>
+<div class="iframe-container">
+  <iframe src="https://pressureluckcooking.com/recipe/instant-pot-rigatoni-firenze/" frameborder="0"></iframe>
+</div>
+
+<!-- CSS to make the iframe responsive -->
+<style>
+.iframe-container {
+overflow: hidden;
+padding-top: 100%;
+position: relative;
+}
+.iframe-container iframe {
+ border: 0;
+ height: 100%;
+ left: 0;
+ position: absolute;
+ top: 0;
+ width: 100%;
+}
+</style>
+++++
