@@ -7,9 +7,8 @@ endif::[]
 :idprefix:
 :idseparator: -
 :toc: left
-Try this tasty quinoa salad recipe shared by fellow writer Debbi Hodde.
 
-This was the first Mediterranean recipe I made. It's now a #family favorite#.
+A tasty quinoa salad recipe.
 --
 Prep Time: 5 minutes +
 Cook time: 20 minutes +
