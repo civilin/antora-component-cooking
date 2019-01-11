@@ -1,2 +1,3 @@
 * Mexican
 ** xref:mexican_lasagna.adoc[Mexican Lasagna]
+** xref:mexican-beans-and-rice.adoc[Mexican Beans and Rice]
