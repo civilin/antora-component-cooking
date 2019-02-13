@@ -5,7 +5,7 @@ Standard fare for a good supper.
 
 == Ingredients
 
-[width="75%", cols="10,15,75"]
+[width="75%", cols="10,20,70"]
 |===
 |Qty |Measure |Ingredient
 |1|lb.|ground Turkey
