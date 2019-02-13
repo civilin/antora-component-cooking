@@ -1,10 +1,10 @@
 = Flying Saucer Recipe (Steve's version)
 
-A pizza-like meat sauce to use as filling in toasted sandwiches. We used to cook these in round toaster irons. As kids, we called these sandwiches flying saucers. 
+A pizza-like meat sauce to use as filling in toasted sandwiches. We used to cook these in round toaster irons. As kids, we called these sandwiches flying saucers.
 
 == Ingredients
 
-[width="75%", cols="10,15,75"]
+[width="75%", cols="10,20,70"]
 |===
 |Qty |Measure |Ingredient
 |1|lb.|ground beef
