@@ -10,7 +10,7 @@ This family pleasing meal is quick and easy to prepare.
 
 == Ingredients
 
-[width="75%", cols="10,15,75"]
+[width="75%", cols="10,20,80"]
 |===
 |Qty |Measure |Ingredient
 |1|tbs|extra virgin olive oil
