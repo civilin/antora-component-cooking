@@ -1,0 +1,35 @@
+= Flying Saucer Recipe (Steve's version)
+
+A pizza-like meat sauce to use as filling in toasted sandwiches. We used to cook these in round toaster irons. As kids, we called these sandwiches flying saucers. 
+
+== Ingredients
+
+[width="75%", cols="10,15,75"]
+|===
+|Qty |Measure |Ingredient
+|1|lb.|ground beef
+|2/3|lb.|ground Italian Sausage
+|1|Med|Onion, chopped
+|15|oz.|Crushed tomatoes
+|6|oz.|Tomato Paste
+|1/2|tbs|Basil
+|1|tsp|garlic, chopped
+|1/2|tbs|Oregano
+|1/2|tsp|Thyme
+|1/2|tsp|Parsley
+|1/2|tsp|Onion Powder
+|1/2|tsp|Black Pepper
+
+|===
+
+== Preparation
+
+. Set Instant Pot to saute setting
+. Add beef, italian sausage, and onions
+. Cook until browned
+. Add crushed tomatoes and tomato paste
+. Add all spices.
+. Cook on high pressure for 12 minutes
+. Vent the pressure.
+. To make sandwiches in an electric toaster, fill with 1/2 cup sauce and Mozzarella cheese.
+.Toast and serve.
