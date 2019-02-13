@@ -32,4 +32,4 @@ A pizza-like meat sauce to use as filling in toasted sandwiches. We used to cook
 . Cook on high pressure for 12 minutes
 . Vent the pressure.
 . To make sandwiches in an electric toaster, fill with 1/2 cup sauce and Mozzarella cheese.
-.Toast and serve.
+. Toast and serve.
