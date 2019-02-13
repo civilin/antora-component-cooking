@@ -8,7 +8,7 @@ Kung Pao chicken is a spicy Chinese classic, made from chicken, peanuts, vegetab
 
 == Ingredients
 
-[width="75%", cols="10,15,75"]
+[width="75%", cols="10,20,70"]
 |===
 |Qty |Measure |Ingredient
 |2|cups|diced chicken
