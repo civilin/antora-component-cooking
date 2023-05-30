@@ -1,6 +1,6 @@
 name: cooking
 title: Cooking
-version: ~
+version: 'latest'
 start_page: ROOT:index.adoc
 nav:
 - modules/ROOT/nav.adoc
